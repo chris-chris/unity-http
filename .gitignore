@@ -1,0 +1,8 @@
+*.sln
+Temp
+temp
+Library
+bin
+obj
+*.csproj
+ProjectSettings
